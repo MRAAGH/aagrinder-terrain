@@ -1,2 +1,5 @@
-# aagrinder-terrain
-Independent c++ component for terrain generation for https://gitlab.com/MRAAGH/aagrinder
+# https://gitlab.com/MRAAGH/aagrinder-terrain
+
+# https://aagrinder.xyz
+
+![AAGRINDER terrain](https://img.ourl.ca/image_x0_y134_w0_crop.png)
